@@ -4,9 +4,9 @@
 ---
 
 ### 👨‍💻 About Me
-I am a Computer Science & Engineering student passionate about low-level programming, embedded systems, and automotive engineering. My expertise ranges from microcontroller firmware and custom Linux distributions (Yocto) to local AI architecture and digital automotive instrumentation.
+I am a Computer Science & Engineering student passionate about low-level programming, embedded systems, local AI architecture, and automotive engineering. My expertise ranges from microcontroller firmware and custom Linux distributions (Yocto) to local LLM acceleration, digital automotive instrumentation, and systems programming.
 
-- 🚗 **Personal Project:** Designing and building custom digital clusters, embedded controllers, and custom hardware for my BMW E92.
+- 🚗 **Personal Projects:** Building a custom digital instrument cluster (Yocto Linux & Flutter) for my BMW E92, alongside designing custom electronic hardware and PCBs (ESP32 power seat controllers with motor drivers) from scratch.
 - 🔭 **Currently focused on:** Yocto Project / Automotive Grade Linux, local LLM acceleration (CUDA/C++), and CAN Bus integration.
 - ⚡ **Core Focus:** Hardware-to-Software Bridge (Embedded Systems • Kernel / OS • Applied AI).
 
@@ -29,7 +29,7 @@ I am a Computer Science & Engineering student passionate about low-level program
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **E92 Digital Instrument Cluster** | Custom digital dashboard and OS image built for BMW E92 with real-time telemetry rendering. | Yocto Linux, Automotive Grade Linux, Flutter, C++ |
-| **ESP32 Power Seat Module** | Custom PCB and driver system for controlling BMW E92 power seat motors via web interface and BLE. | ESP32, C++, BTS7960 / BTN8982 Drivers, EasyEDA |
+| **ESP32 Power Seat Controller** | Designed custom hardware schemas, PCBs, and firmware from scratch for controlling BMW E92 power seat motors via BLE and web interface. | EasyEDA, ESP32, C++, BTS7960 / BTN8982 Drivers |
 | **CAN Bus Interface Bridge** | Embedded gateway interface for reading vehicle telemetry and sending custom control frames. | C++, ESP32 / STM32, CAN Transceivers |
 
 ---
@@ -47,5 +47,5 @@ I am a Computer Science & Engineering student passionate about low-level program
 ---
 
 ### 📫 Connect with Me
-- 💼 **LinkedIn:** [linkedin.com/in/alexandru-haidet-a6a01b193](https://linkedin.com)
+- 💼 **LinkedIn:** [linkedin.com/in/alexandru-haidet-a6a01b193](https://linkedin.com/in/alexandru-haidet-a6a01b193)
 - 📧 **Email:** alexandruhaidet@gmail.com
