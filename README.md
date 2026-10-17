@@ -46,15 +46,6 @@ I am a Computer Science & Engineering student passionate about low-level program
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="Alexandru's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 📫 Connect with Me
-- 💼 **LinkedIn:** [linkedin.com/in/YOUR_PROFILE](https://linkedin.com)
-- 📧 **Email:** your.email@example.com
+- 💼 **LinkedIn:** [linkedin.com/in/alexandru-haidet-a6a01b193](https://linkedin.com)
+- 📧 **Email:** alexandruhaidet@gmail.com
